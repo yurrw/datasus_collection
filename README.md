@@ -20,13 +20,12 @@ Em constande desenvolvimento
 [http://www2.datasus.gov.br/DATASUS/index.php?area=0901](http://www2.datasus.gov.br/DATASUS/index.php?area=0901). 
 As tabelas que utilazamos são : 
         SIM 
+        
         SINASC
+        
         **(POR O SIGNIFICADO DE CADA NOME DA TABELA)**
         
-X.X : Site utilizado para documentação oficial
-------------------------------------   
- [https://sites.google.com/a/ntt.ufrj.br/dados-na-saude-coletiva/?pli=1](https://sites.google.com/a/ntt.ufrj.br/dados-na-saude-coletiva/?pli=1). 
-    > (such old, using webpages, fuck)
+
 
 1.3 : Problema Inicial : 
 ------------------------------------   
@@ -44,4 +43,8 @@ O problema inicial que tivemos foi encontrar uma melhor forma de pegar os dados 
 ------------------------------------  
 1.8 : 
 ------------------------------------  
+X.X : Site utilizado para documentação oficial
+------------------------------------   
 
+ [https://sites.google.com/a/ntt.ufrj.br/dados-na-saude-coletiva/?pli=1](https://sites.google.com/a/ntt.ufrj.br/dados-na-saude-coletiva/?pli=1). 
+    > (such old, using webpages, fuck)
