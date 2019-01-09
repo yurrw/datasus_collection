@@ -23,9 +23,7 @@ As tabelas que utilazamos são :
         
         SINASC =  Número de nascidos vivos 
         algo me diz que para a sinasc também será preciso da CNES
-        ? vamos precisar usar a cnes e a uf  
-                
-        **(POR O SIGNIFICADO DE CADA NOME DA TABELA)**
+        vamos precisar usar a cnes e a uf   (tabelas de junção ) 
   
   
   Os arquivos : (cnes,uf)?_campos_utilizados podem precisar de alterações
@@ -39,7 +37,7 @@ O problema inicial que tivemos foi encontrar uma melhor forma de pegar os dados 
 ------------------------------------  
 A princípio será feito para a tabela SINASC, em breve, SIM. 
 Acredito que o grande problema seja saber os campos que devemos usar.
-ESSA MERDA DE TRABALHO NAO TEM DESCRIÇÃO E EU NAO SEI O QUE FAZER. QUE ODIO. 
+
 
 
 
