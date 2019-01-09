@@ -5,7 +5,7 @@ Em constande desenvolvimento
 
 1.0 : Objetivo principal
 -----------------------------------
-    > Swear by god, I don't know
+    > 
 
 1.1 : Programas/pacotes necessários 
 ------------------------------------      
