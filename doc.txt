@@ -1,0 +1,2 @@
+tabelas:  sim e sinasc
+drop só quando tem tabelas diferentes ( aka cnv) 
