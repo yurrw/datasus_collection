@@ -14,4 +14,4 @@ for file in onlyfiles:
 		last3=None
 	if(last3!=None and (last3=='csv' or last3=='CSV')):
 		nome=file.split('.')[0].lower()+"_cnv"
-		os.system('mongoimport -d projeto2 --drop --type=csv --headerline --file='+file+' -c '+nome)
+		os.system('mongoimport -d projeto --drop --type=csv --headerline --file='+file+' -c '+nome)

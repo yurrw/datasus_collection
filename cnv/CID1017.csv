@@ -1,0 +1,628 @@
+valor,codigo
+Q00.0 Anencefalia,Q000
+Q00.1 Craniorraquisquise,Q001
+Q00.2 Iniencefalia,Q002
+Q01.0 Encefalocele frontal,Q010
+Q01.1 Encefalocele nasofrontal,Q011
+Q01.2 Encefalocele occipital,Q012
+Q01.8 Encefalocele de outr localiz,Q018
+Q01.9 Encefalocele NE,Q019
+Q02   Microcefalia,Q02 
+Q02   Microcefalia,Q02X
+Q03.0 Malformacoes do aqueduto de Sylvius,Q030
+Q03.1 Atresia fendas Luschka e foramen Magendie,Q031
+Q03.8 Outr hidrocefalia congen,Q038
+Q03.9 Hidrocefalia congen NE,Q039
+Q04.0 Malformacoes congen do corpo caloso,Q040
+Q04.1 Arrinencefalia,Q041
+Q04.2 Holoprosencefalia,Q042
+Q04.3 Outr deform p/reducao do encefalo,Q043
+Q04.4 Displasia do septo e das vias opticas,Q044
+Q04.5 Megalencefalia,Q045
+Q04.6 Cistos cerebrais congen,Q046
+Q04.8 Outr malformacoes congen espec do encefalo,Q048
+Q04.9 Malformacao congen NE do encefalo,Q049
+Q05.0 Espinha bifida cervical c/hidrocefalia,Q050
+Q05.1 Espinha bifida toracica c/hidrocefalia,Q051
+Q05.2 Espinha bifida lombar c/hidrocefalia,Q052
+Q05.3 Espinha bifida sacra c/hidrocefalia,Q053
+Q05.4 Espinha bifida NE c/hidrocefalia,Q054
+Q05.5 Espinha bifida cervical s/hidrocefalia,Q055
+Q05.6 Espinha bifida toracica s/hidrocefalia,Q056
+Q05.7 Espinha bifida lombar s/hidrocefalia,Q057
+Q05.8 Espinha bifida sacra s/hidrocefalia,Q058
+Q05.9 Espinha bifida NE,Q059
+Q06.0 Amielia,Q060
+Q06.1 Hipoplasia e displasia da medula espinal,Q061
+Q06.2 Diastematomielia,Q062
+Q06.3 Outr malformacoes congen da cauda equina,Q063
+Q06.4 Hidromielia,Q064
+Q06.8 Outr malform congen espec medula espinal,Q068
+Q06.9 Malformacao congen NE da medula espinal,Q069
+Q07.0 Sindr de Arnold-Chiari,Q070
+Q07.8 Outr malformacoes congen espec sist nervoso,Q078
+Q07.9 Malformacao congen NE do sist nervoso,Q079
+Q10.0 Ptose congen,Q100
+Q10.1 Ectropio congen,Q101
+Q10.2 Entropio congen,Q102
+Q10.3 Outr malformacoes congen das palpebras,Q103
+Q10.4 Ausencia ou agenesia do aparelho lacrimal,Q104
+Q10.5 Estenose ou estreit congen canal lacrimal,Q105
+Q10.6 Outr malformacoes congen aparelho lacrimal,Q106
+Q10.7 Malformacao congen da orbita,Q107
+Q11.0 Olho cistico,Q110
+Q11.1 Outr form de anoftalmia,Q111
+Q11.2 Microftalmia,Q112
+Q11.3 Macroftalmia,Q113
+Q12.0 Catarata congen,Q120
+Q12.1 Luxacao congen do cristalino,Q121
+Q12.2 Coloboma do cristalino,Q122
+Q12.3 Afaquia congen,Q123
+Q12.4 Esferofaquia,Q124
+Q12.8 Outr malformacoes congen do cristalino,Q128
+Q12.9 Malformacao congen NE do cristalino,Q129
+Q13.0 Coloboma da iris,Q130
+Q13.1 Ausencia de iris,Q131
+Q13.2 Outr malformacoes congen da iris,Q132
+Q13.3 Opacidade congen da cornea,Q133
+Q13.4 Outr malformacoes congen da cornea,Q134
+Q13.5 Esclerotica azul,Q135
+Q13.8 Outr malform congen camara anterior olho,Q138
+Q13.9 Malformacao congen NE camara anterior olho,Q139
+Q14.0 Malformacao congen do humor vitreo,Q140
+Q14.1 Malformacao congen da retina,Q141
+Q14.2 Malformacao congen do disco optico,Q142
+Q14.3 Malformacao congen da coroide,Q143
+Q14.8 Outr malform congen camara posterior olho,Q148
+Q14.9 Malformacao congen NE camara posterior olho,Q149
+Q15.0 Glaucoma congen,Q150
+Q15.8 Outr malformacoes congen espec do olho,Q158
+Q15.9 Malformacao congen NE do olho,Q159
+Q16.0 Ausencia congen do pavilhao auricular,Q160
+Q16.1 Ausencia atresia estreit congen cond audit,Q161
+Q16.2 Ausencia da trompa de Eustaquio,Q162
+Q16.3 Malformacao congen dos ossiculos do ouvido,Q163
+Q16.4 Outr malformacoes congen do ouvido medio,Q164
+Q16.5 Malformacao congen do ouvido interno,Q165
+Q16.9 Malform congen ouvido NE caus compr audicao,Q169
+Q17.0 Pavilhao supranumerario,Q170
+Q17.1 Macrotia,Q171
+Q17.2 Microtia,Q172
+Q17.3 Outr deform da orelha,Q173
+Q17.4 Anomalia de posicao da orelha,Q174
+Q17.5 Orelhas proeminentes,Q175
+Q17.8 Outr malformacoes congen espec da orelha,Q178
+Q17.9 Malformacao congen NE da orelha,Q179
+Q18.0 Seio fistula e cisto orig branquial,Q180
+Q18.1 Seio fistula e cisto pre-auricular,Q181
+Q18.2 Outr malformacoes da fenda branquial,Q182
+Q18.3 Pescoco alado,Q183
+Q18.4 Macrostomia,Q184
+Q18.5 Microstomia,Q185
+Q18.6 Macroqueilia,Q186
+Q18.7 Microqueilia,Q187
+Q18.8 Outr malformacoes congen espec face pescoco,Q188
+Q18.9 Malformacao congen NE da face e do pescoco,Q189
+Q20.0 Tronco arterial comum,Q200
+Q20.1 Ventriculo direito c/dupla via de saida,Q201
+Q20.2 Ventriculo esquerdo c/dupla via de saida,Q202
+Q20.3 Comunicacao ventriculo-atrial discordante,Q203
+Q20.4 Ventriculo c/dupla via de entrada,Q204
+Q20.5 Comunicacao atrio-ventricular discordante,Q205
+Q20.6 Isomerismo dos apendices atriais,Q206
+Q20.8 Outr malform congen camaras e comunic card,Q208
+Q20.9 Malformacao congen NE camaras e comumic card,Q209
+Q21.0 Comunicacao interventricular,Q210
+Q21.1 Comunicacao interatrial,Q211
+Q21.2 Comunicacao atrioventricular,Q212
+Q21.3 Tetralogia de Fallot,Q213
+Q21.4 Comunicacao aortopulmonar,Q214
+Q21.8 Outr malformacoes congen septos cardiacos,Q218
+Q21.9 Malformacao congen NE de septo cardiaco,Q219
+Q22.0 Atresia da valva pulmonar,Q220
+Q22.1 Estenose congen da valva pulmonar,Q221
+Q22.2 Insuf congen da valva pulmonar,Q222
+Q22.3 Outr malformacoes congen da valva pulmonar,Q223
+Q22.4 Estenose congen da valva tricuspide,Q224
+Q22.5 Anomalia de Ebstein,Q225
+Q22.6 Sindr do coracao direito hipoplasico,Q226
+Q22.8 Outr malformacoes congen da valva tricuspide,Q228
+Q22.9 Malformacao congen NE da valva tricuspide,Q229
+Q23.0 Estenose congen da valva aortica,Q230
+Q23.1 Insuf congen da valva aortica,Q231
+Q23.2 Estenose mitral congen,Q232
+Q23.3 Insuf mitral congen,Q233
+Q23.4 Sindr do coracao esquerdo hipoplasico,Q234
+Q23.8 Outr malform congen valvas aortica mitral,Q238
+Q23.9 Malformacao congen NE valvas aortica mitral,Q239
+Q24.0 Dextrocardia,Q240
+Q24.1 Levocardia,Q241
+Q24.2 Cor triatriatum,Q242
+Q24.3 Estenose do infundibulo pulmonar,Q243
+Q24.4 Estenose subaortica congen,Q244
+Q24.5 Malformacoes dos vasos coronarios,Q245
+Q24.6 Bloqueio congen do coracao,Q246
+Q24.8 Outr malformacoes congen espec do coracao,Q248
+Q24.9 Malformacao NE do coracao,Q249
+Q25.0 Permeabilidade do canal arterial,Q250
+Q25.1 Coartacao da aorta,Q251
+Q25.2 Atresia da aorta,Q252
+Q25.3 Estenose da aorta,Q253
+Q25.4 Outr malformacoes congen da aorta,Q254
+Q25.5 Atresia da arteria pulmonar,Q255
+Q25.6 Estenose da arteria pulmonar,Q256
+Q25.7 Outr malformacoes congen da arteria pulmonar,Q257
+Q25.8 Outr malformacoes congen grandes arterias,Q258
+Q25.9 Malformacao congen NE das grandes arterias,Q259
+Q26.0 Estenose congen da veia cava,Q260
+Q26.1 Persistencia da veia cava super esquerda,Q261
+Q26.2 Comunicacao venosa pulmonar anormal total,Q262
+Q26.3 Comunicacao venosa pulmonar anormal parcial,Q263
+Q26.4 Comunicacao venosa pulmonar anormal NE,Q264
+Q26.5 Comunicacao venosa portal anormal,Q265
+Q26.6 Fistula entre veia porta e arteria hepatica,Q266
+Q26.8 Outr malformacoes congen das grandes veias,Q268
+Q26.9 Malformacao congen NE de grande veia,Q269
+Q27.0 Ausencia congen e hipoplasia arteria umbilic,Q270
+Q27.1 Estenose congen da arteria renal,Q271
+Q27.2 Outr malformacoes congen da arteria renal,Q272
+Q27.3 Malformacao arterio-venosa periferica,Q273
+Q27.4 Ectasia venosa congen,Q274
+Q27.8 Outr malform congen espec sist vasc perif,Q278
+Q27.9 Malformacao congen NE do sist vasc perif,Q279
+Q28.0 Malform arteriovenosa de vasos pre-cerebrais,Q280
+Q28.1 Outr malformacoes dos vasos pre-cerebrais,Q281
+Q28.2 Malform arteriovenosa dos vasos cerebrais,Q282
+Q28.3 Outr malformacoes dos vasos cerebrais,Q283
+Q28.8 Outr malform congen espec aparelho circulat,Q288
+Q28.9 Malform congen NE do aparelho circulatorio,Q289
+Q30.0 Atresia das coanas,Q300
+Q30.1 Agenesia ou hipoplasia do nariz,Q301
+Q30.2 Fissura entalhe ou fenda nasal,Q302
+Q30.3 Perfuracao congen do septo nasal,Q303
+Q30.8 Outr malformacoes congen do nariz,Q308
+Q30.9 Malformacao congen NE do nariz,Q309
+Q31.0 Pterigio da laringe,Q310
+Q31.1 Estenose subglotica congen,Q311
+Q31.2 Hipoplasia da laringe,Q312
+Q31.3 Laringocele,Q313
+Q31.4 Estridor congenito da laringe,Q314
+Q31.5 Laringomalacia congenita,Q315
+Q31.8 Outr malformacoes congen da laringe,Q318
+Q31.9 Malformacao congen NE da laringe,Q319
+Q32.0 Traqueomalacia congen,Q320
+Q32.1 Outr malformacoes congen da traqueia,Q321
+Q32.2 Broncomalacia congen,Q322
+Q32.3 Estenose congen dos bronquios,Q323
+Q32.4 Outr malformacoes congen dos bronquios,Q324
+Q33.0 Pulmao cistico congen,Q330
+Q33.1 Lobo pulmonar supranumerario,Q331
+Q33.2 Sequestro pulmonar,Q332
+Q33.3 Agenesia do pulmao,Q333
+Q33.4 Bronquectasia congen,Q334
+Q33.5 Tec ectopico intrapulmonar,Q335
+Q33.6 Hipoplasia e displasia do pulmao,Q336
+Q33.8 Outr malformacoes congen do pulmao,Q338
+Q33.9 Malformacao congen NE do pulmao,Q339
+Q34.0 Anomalia da pleura,Q340
+Q34.1 Cisto congen do mediastino,Q341
+Q34.8 Outr malform congen espec aparelho respirat,Q348
+Q34.9 Malformacao congen NE do aparelho respirat,Q349
+Q35.1 Fenda do palato duro,Q351
+Q35.1 Fenda do palato duro,Q350
+Q35.3 Fenda do palato mole,Q353
+Q35.3 Fenda do palato mole,Q352
+Q35.5 Fenda do palato duro c/fenda do palato mole,Q355
+Q35.5 Fenda do palato duro c/fenda do palato mole,Q354
+Q35.7 Fenda da uvula,Q357
+Q35.9 Fenda palatina NE,Q359
+Q35.9 Fenda palatina NE,Q356
+Q35.9 Fenda palatina NE,Q358
+Q36.0 Fenda labial bilateral,Q360
+Q36.1 Fenda labial mediana,Q361
+Q36.9 Fenda labial unilateral,Q369
+Q37.0 Fenda palato duro c/fenda labial bilateral,Q370
+Q37.1 Fenda palato duro c/fenda labial unilateral,Q371
+Q37.2 Fenda palato mole c/fenda labial bilateral,Q372
+Q37.3 Fenda palato mole c/fenda labial unilateral,Q373
+Q37.4 Fenda palatos duro mole c/fenda labial bilat,Q374
+Q37.5 Fenda palatos duro mole c/fend labial unilat,Q375
+Q37.8 Fenda do palato c/fenda labial bilateral NE,Q378
+Q37.9 Fenda do palato c/fenda labial unilateral NE,Q379
+Q38.0 Malformacoes congen dos labios NCOP,Q380
+Q38.1 Anquiloglossia,Q381
+Q38.2 Macroglossia,Q382
+Q38.3 Outr malformacoes congen da lingua,Q383
+Q38.4 Malformacoes congen gland e dutos salivares,Q384
+Q38.5 Malformacoes congen do palato NCOP,Q385
+Q38.6 Outr malformacoes congen da boca,Q386
+Q38.7 Bolsa faringea,Q387
+Q38.8 Outr malformacoes congen da faringe,Q388
+Q39.0 Atresia de esofago s/fistula,Q390
+Q39.1 Atresia esofago c/fistula traqueoesofagica,Q391
+Q39.2 Fistula traqueoesofagica congen s/atresia,Q392
+Q39.3 Estenose congen e estreit congen esofago,Q393
+Q39.4 Pterigio do esofago,Q394
+Q39.5 Dilatacao congen do esofago,Q395
+Q39.6 Diverticulo do esofago,Q396
+Q39.8 Outr malformacoes congen do esofago,Q398
+Q39.9 Malformacao congen NE do esofago,Q399
+Q40.0 Estenose hipertrofica congen do piloro,Q400
+Q40.1 Hernia congen de hiato,Q401
+Q40.2 Outr malformacoes congen espec do estomago,Q402
+Q40.3 Malformacao congen NE do estomago,Q403
+Q40.8 Outr malform congen espec trato digest super,Q408
+Q40.9 Malformacao congen NE trato digestivo super,Q409
+Q41.0 Ausencia atresia e estenose congen duodeno,Q410
+Q41.1 Ausencia atresia e estenose congen do jejuno,Q411
+Q41.2 Ausencia atresia e estenose congen do ileo,Q412
+Q41.8 Ausen atres esten cong out part esp int delg,Q418
+Q41.9 Ausen atres esten cong int delg s/espec loc,Q419
+Q42.0 Ausencia atresia estenose congen reto c/fist,Q420
+Q42.1 Ausencia atresia estenose congen reto s/fist,Q421
+Q42.2 Ausencia atresia estenose congen anus c/fist,Q422
+Q42.3 Ausencia atresia estenose congen anus s/fist,Q423
+Q42.8 Ausenc atres estenose congen outr part colon,Q428
+Q42.9 Ausenc atresia estenose congen part NE colon,Q429
+Q43.0 Diverticulo de Meckel,Q430
+Q43.1 Doenc de Hirschsprung,Q431
+Q43.2 Outr transt funcionais congen do colon,Q432
+Q43.3 Malformacoes congen da fixacao do intestino,Q433
+Q43.4 Duplicacao do intestino,Q434
+Q43.5 Anus ectopico,Q435
+Q43.6 Fistula congen do reto e do anus,Q436
+Q43.7 Persistencia de cloaca,Q437
+Q43.8 Outr malformacoes congen espec do intestino,Q438
+Q43.9 Malformacao congen NE do intestino,Q439
+Q44.0 Agenesia aplasia hipoplasia vesicula biliar,Q440
+Q44.1 Outr malformacoes congen da vesicula biliar,Q441
+Q44.2 Atresia das vias biliares,Q442
+Q44.3 Estenose estreitamento congen vias biliares,Q443
+Q44.4 Cisto do coledoco,Q444
+Q44.5 Outr malformacoes congen das vias biliares,Q445
+Q44.6 Doenc cistica do figado,Q446
+Q44.7 Outr malformacoes congen do figado,Q447
+Q45.0 Agenesia aplasia e hipoplasia do pancreas,Q450
+Q45.1 Pancreas anular,Q451
+Q45.2 Cisto pancreatico congen,Q452
+Q45.3 Outr malform congen pancreas duto pancreatic,Q453
+Q45.8 Outr malform congen espec aparelho digestivo,Q458
+Q45.9 Malformacao congen NE do aparelho digestivo,Q459
+Q50.0 Ausencia congen dos ovarios,Q500
+Q50.1 Cisto ovariano de desenvolv,Q501
+Q50.2 Torsao congen do ovario,Q502
+Q50.3 Outr malformacoes congen do ovario,Q503
+Q50.4 Cisto embrionario da trompa de Falopio,Q504
+Q50.5 Cisto embrionario do ligamento largo,Q505
+Q50.6 Outr malform congen tromp Falopio lig largos,Q506
+Q51.0 Agenesia e aplasia do utero,Q510
+Q51.1 Utero duplo c/duplicacao colo uterino vagina,Q511
+Q51.2 Outr duplicacao do utero,Q512
+Q51.3 Utero bicorneo,Q513
+Q51.4 Utero unicorneo,Q514
+Q51.5 Agenesia e aplasia do colo do utero,Q515
+Q51.6 Cisto embrionario do colo do utero,Q516
+Q51.7 Fistula congen utero-digest ou utero-urinar,Q517
+Q51.8 Outr malformacoes congen utero colo do utero,Q518
+Q51.9 Malformacao congen NE utero colo utero SOE,Q519
+Q52.0 Ausencia congen da vagina,Q520
+Q52.1 Duplicacao da vagina,Q521
+Q52.2 Fistula reto-vaginal congen,Q522
+Q52.3 Imperfuracao do himen,Q523
+Q52.4 Outr malformacoes congen da vagina,Q524
+Q52.5 Fusao dos labios vulvares,Q525
+Q52.6 Malformacao congen do clitoris,Q526
+Q52.7 Outr malformacoes congen da vulva,Q527
+Q52.8 Outr malform congen espec org genitais femin,Q528
+Q52.9 Malform congen NE dos orgaos genitais femin,Q529
+Q53.0 Testiculo ectopico,Q530
+Q53.1 Testiculo nao-descido unilateral,Q531
+Q53.2 Testiculo nao-descido bilateral,Q532
+Q53.9 Testiculo nao-descido NE,Q539
+Q54.0 Hipospadia balanica,Q540
+Q54.1 Hipospadia peniana,Q541
+Q54.2 Hipospadia penoscrotal,Q542
+Q54.3 Hipospadia perineal,Q543
+Q54.4 Corda venerea congen,Q544
+Q54.8 Outr hipospadias,Q548
+Q54.9 Hipospadia NE,Q549
+Q55.0 Ausencia e aplasia do testiculo,Q550
+Q55.1 Hipoplasia do testiculo e do escroto,Q551
+Q55.2 Outr malformacoes congen testiculo e escroto,Q552
+Q55.3 Atresia do canal deferente,Q553
+Q55.4 Out malf cong can defer epid ves sem prostat,Q554
+Q55.5 Ausencia e aplasia congen do penis,Q555
+Q55.6 Outr malformacoes congen do penis,Q556
+Q55.8 Outr malform congen espec org genitais masc,Q558
+Q55.9 Malform congen NE dos orgaos genitais masc,Q559
+Q56.0 Hermafroditismo NCOP,Q560
+Q56.1 Pseudo-hermafroditismo masc NCOP,Q561
+Q56.2 Pseudo-hermafroditismo femin NCOP,Q562
+Q56.3 Pseudo-hermafroditismo NE,Q563
+Q56.4 Sexo indeterminado NE,Q564
+Q60.0 Agenesia unilateral do rim,Q600
+Q60.1 Agenesia bilateral do rim,Q601
+Q60.2 Agenesia renal NE,Q602
+Q60.3 Hipoplasia renal unilateral,Q603
+Q60.4 Hipoplasia renal bilateral,Q604
+Q60.5 Hipoplasia renal NE,Q605
+Q60.6 Sindr de Potter,Q606
+Q61.0 Cisto congen unico do rim,Q610
+Q61.1 Rim policistico autossomico recessivo,Q611
+Q61.2 Rim policistico autossomico dominante,Q612
+Q61.3 Rim policistico NE,Q613
+Q61.4 Displasia renal,Q614
+Q61.5 Cisto medular do rim,Q615
+Q61.8 Outr doenc cisticas do rim,Q618
+Q61.9 Doenc cistica NE do rim,Q619
+Q62.0 Hidronefrose congen,Q620
+Q62.1 Atresia e estenose do ureter,Q621
+Q62.2 Megaureter congen,Q622
+Q62.3 Outr anom obstr da pelve renal e do ureter,Q623
+Q62.4 Agenesia do ureter,Q624
+Q62.5 Duplicacao do ureter,Q625
+Q62.6 Ma-posicao do ureter,Q626
+Q62.7 Refluxo vesico-uretero-renal congen,Q627
+Q62.8 Outr malformacoes congen do ureter,Q628
+Q63.0 Rim supranumerario,Q630
+Q63.1 Rim lobulado fundido ou em ferradura,Q631
+Q63.2 Rim ectopico,Q632
+Q63.3 Rim hiperplasico e gigante,Q633
+Q63.8 Outr malformacoes congen espec do rim,Q638
+Q63.9 Malformacao congen NE do rim,Q639
+Q64.0 Epispadias,Q640
+Q64.1 Extrofia vesical,Q641
+Q64.2 Valvulas uretrais posteriores congen,Q642
+Q64.3 Outr form atresia estenose uretra colo bexig,Q643
+Q64.4 Malformacao do uraco,Q644
+Q64.5 Ausencia congen da bexiga e da uretra,Q645
+Q64.6 Diverticulo congen da bexiga,Q646
+Q64.7 Outr malformacoes congen da bexiga e uretra,Q647
+Q64.8 Outr malform congen espec aparelho urinario,Q648
+Q64.9 Malformacao congen NE do aparelho urinario,Q649
+Q65.0 Luxacao congen unilateral do quadril,Q650
+Q65.1 Luxacao congen bilateral do quadril,Q651
+Q65.2 Luxacao congen NE do quadril,Q652
+Q65.3 Subluxacao congen unilateral do quadril,Q653
+Q65.4 Subluxacao congen bilateral do quadril,Q654
+Q65.5 Subluxacao congen NE do quadril,Q655
+Q65.6 Quadril instavel,Q656
+Q65.8 Outr deform congen do quadril,Q658
+Q65.9 Deform congen NE do quadril,Q659
+Q66.0 Pe torto equinovaro,Q660
+Q66.1 Pe torto calcaneovaro,Q661
+Q66.2 Metatarso varo,Q662
+Q66.3 Outr deform congen dos pes em varo,Q663
+Q66.4 Pe torto calcaneovalgo,Q664
+Q66.5 Pe chato congen,Q665
+Q66.6 Outr deform congen dos pes em valgo,Q666
+Q66.7 Pe cavo,Q667
+Q66.8 Outr deform congen do pe,Q668
+Q66.9 Deform congen NE do pe,Q669
+Q67.0 Assimetria facial,Q670
+Q67.1 Deform facial p/compressao,Q671
+Q67.2 Dolicocefalia,Q672
+Q67.3 Plagiocefalia,Q673
+Q67.4 Outr deform congen cranio face e mandibula,Q674
+Q67.5 Deform congen da coluna vertebral,Q675
+Q67.6 Torax escavado,Q676
+Q67.7 Torax carinado,Q677
+Q67.8 Outr deform congen do torax,Q678
+Q68.0 Deform congen musculo esternocleidomastoideu,Q680
+Q68.1 Deform congen da mao,Q681
+Q68.2 Deform congen do joelho,Q682
+Q68.3 Encurvamento congen do femur,Q683
+Q68.4 Encurvamento congen da tibia e da peronio,Q684
+Q68.5 Encurv congen ossos longos NE membro infer,Q685
+Q68.8 Outr deform osteomusculares congen,Q688
+Q69.0 Dedos da mao supranumerarios,Q690
+Q69.1 Polegares supranumerarios,Q691
+Q69.2 Artelhos supranumerarios,Q692
+Q69.9 Polidactilia NE,Q699
+Q70.0 Coalescencia dos dedos,Q700
+Q70.1 Dedos palmados,Q701
+Q70.2 Coalescencia dos artelhos,Q702
+Q70.3 Artelhos palmados,Q703
+Q70.4 Polissindactilia,Q704
+Q70.9 Sindactilia NE,Q709
+Q71.0 Ausencia congen completa de membros super,Q710
+Q71.1 Ausencia congen braco antebraco c/mao pres,Q711
+Q71.2 Ausencia congen do antebraco e da mao,Q712
+Q71.3 Ausencia congen da mao e de dedos,Q713
+Q71.4 Defeito de reducao longitudinal do radio,Q714
+Q71.5 Defeito de reducao longitudinal do cubito,Q715
+Q71.6 Mao em garra de lagosta,Q716
+Q71.8 Outr defeitos de reducao do membro super,Q718
+Q71.9 Defeito p/reducao do membro super NE,Q719
+Q72.0 Ausencia congen completa de membros infer,Q720
+Q72.1 Ausencia congen coxa perna c/pe presente,Q721
+Q72.2 Ausencia congen da perna e do pe,Q722
+Q72.3 Ausencia congen do pe e de artelhos,Q723
+Q72.4 Defeito p/reducao longitudinal da tibia,Q724
+Q72.5 Defeito p/reducao longitudinal da tibia,Q725
+Q72.6 Defeito p/reducao longitudinal do peronio,Q726
+Q72.7 Pe bifido,Q727
+Q72.8 Outr defeitos p/reducao de membros infer,Q728
+Q72.9 Defeito NE p/reducao do membro infer,Q729
+Q73.0 Ausencia congen de membros NE,Q730
+Q73.1 Focomelia membros NE,Q731
+Q73.8 Outr defeitos p/reducao de membros NE,Q738
+Q74.0 Out malform cong membr super incl cint escap,Q740
+Q74.1 Malformacao congen do joelho,Q741
+Q74.2 Outr malform cong membros inf incl cint pelv,Q742
+Q74.3 Artrogripose congen mult,Q743
+Q74.8 Outr malformacoes congen espec de membros,Q748
+Q74.9 Malformacoes congen NE de membros,Q749
+Q75.0 Craniossinostose,Q750
+Q75.1 Disostose craniofacial,Q751
+Q75.2 Hipertelorismo,Q752
+Q75.3 Macrocefalia,Q753
+Q75.4 Disostose mandibulo-facial,Q754
+Q75.5 Disostose oculo-mandibular,Q755
+Q75.8 Outr malform congen espec ossos cranio face,Q758
+Q75.9 Malform congen NE dos ossos cranio e face,Q759
+Q76.0 Espinha bifida oculta,Q760
+Q76.1 Sindr de Klippel-Feil,Q761
+Q76.2 Espondilolistese congen,Q762
+Q76.3 Escoliose congen dev malform ossea congen,Q763
+Q76.4 Out malf cong coluna vert n-assoc escoliose,Q764
+Q76.5 Costela cervical,Q765
+Q76.6 Outr malformacoes congen das costelas,Q766
+Q76.7 Malformacao congen do esterno,Q767
+Q76.8 Outr malformacoes congen dos ossos do torax,Q768
+Q76.9 Malformacao congen NE dos ossos do torax,Q769
+Q77.0 Acondrogenesia,Q770
+Q77.1 Nanismo tanatoforico,Q771
+Q77.2 Sindr das costelas curtas,Q772
+Q77.3 Condrodisplasia puntacta,Q773
+Q77.4 Acondroplasia,Q774
+Q77.5 Displasia diastrofica,Q775
+Q77.6 Displasia condroectodermica,Q776
+Q77.7 Displasia espondiloepifisaria,Q777
+Q77.8 Out osteocon c/anom cresc osso long col vert,Q778
+Q77.9 Osteocond NE c/anom cresc osso long col vert,Q779
+Q78.0 Osteogenese imperfeita,Q780
+Q78.1 Displasia poliostotica fibrosa,Q781
+Q78.2 Osteopetrose,Q782
+Q78.3 Displasia diafisaria progressiva,Q783
+Q78.4 Encondromatose,Q784
+Q78.5 Displasia metafisaria,Q785
+Q78.6 Exostoses congen mult,Q786
+Q78.8 Outr osteocondrodisplasias espec,Q788
+Q78.9 Osteocondrodisplasia NE,Q789
+Q79.0 Hernia diafragmatica congen,Q790
+Q79.1 Outr malformacoes congen do diafragma,Q791
+Q79.2 Exonfalia,Q792
+Q79.3 Gastrosquise,Q793
+Q79.4 Sindr do abdome em ameixa seca,Q794
+Q79.5 Outr malformacoes congen da parede abdominal,Q795
+Q79.6 Sindr de Ehlers-Danlos,Q796
+Q79.8 Outr malformacoes congen sist osteomuscular,Q798
+Q79.9 Malformacao congen NE do sist osteomuscular,Q799
+Q80.0 Ictiose vulgar,Q800
+Q80.1 Ictiose ligada ao cromossomo X,Q801
+Q80.2 Ictiose lamelar,Q802
+Q80.3 Eritrodermia ictiosiforme bulhosa congen,Q803
+Q80.4 Feto arlequim,Q804
+Q80.8 Outr ictioses congen,Q808
+Q80.9 Ictiose congen NE,Q809
+Q81.0 Epidermolise bolhosa simples,Q810
+Q81.1 Epidermolise bolhosa letal,Q811
+Q81.2 Epidermolise bolhosa distrofica,Q812
+Q81.8 Outr epidermolises bolhosas,Q818
+Q81.9 Epidermolise bolhosa NE,Q819
+Q82.0 Linfedema hereditario,Q820
+Q82.1 Xeroderma pigmentoso,Q821
+Q82.2 Mastocitose,Q822
+Q82.3 Incontinentia pigmenti,Q823
+Q82.4 Displasia ectodermica,Q824
+Q82.5 Nevo nao-neoplasico congen,Q825
+Q82.8 Outr malformacoes congen espec da pele,Q828
+Q82.9 Malformacao congen NE da pele,Q829
+Q83.0 Ausencia congen da mama c/ausencia do mamilo,Q830
+Q83.1 Mama supranumeraria,Q831
+Q83.2 Ausencia de mamilo,Q832
+Q83.3 Mamilo acessorio,Q833
+Q83.8 Outr malformacoes congen da mama,Q838
+Q83.9 Malformacao congen NE da mama,Q839
+Q84.0 Alopecia congen,Q840
+Q84.1 Alteracoes morfologicas congen cabelos NCOP,Q841
+Q84.2 Outr malformacoes congen dos cabelos,Q842
+Q84.3 Anoniquia,Q843
+Q84.4 Leuconiquia congen,Q844
+Q84.5 Hipertrofia e alargamento das unhas,Q845
+Q84.6 Outr malformacoes congen das unhas,Q846
+Q84.8 Outr malformacoes congen espec do tegumento,Q848
+Q84.9 Malformacao congen NE do tegumento,Q849
+Q85.0 Neurofibromatose,Q850
+Q85.1 Esclerose tuberosa,Q851
+Q85.8 Outr facomatoses NCOP,Q858
+Q85.9 Facomatose NE,Q859
+Q86.0 Sindr fetal alcoolico,Q860
+Q86.1 Sindr fetal dev hidantoina,Q861
+Q86.2 Dismorfismo dev Warfarin,Q862
+Q86.8 Outr sindr c/malf cong dev causas exog conh,Q868
+Q87.0 Sindr c/malf cong afet predom aspecto face,Q870
+Q87.1 Sindr c/malform congen assoc predom nanismo,Q871
+Q87.2 Sindr c/malform congen afetando predom membr,Q872
+Q87.3 Sindr c/malform congen c/hipercresc precoce,Q873
+Q87.4 Sindr de Marfan,Q874
+Q87.5 Outr sindr c/malf cong c/outr alt esqueleto,Q875
+Q87.8 Outr sindr c/malformacoes congen espec NCOP,Q878
+Q89.0 Malformacoes congen do baco,Q890
+Q89.1 Malformacoes congen das supra-renais,Q891
+Q89.2 Malformacoes congen de outr gland endocrinas,Q892
+Q89.3 Situs inversus,Q893
+Q89.4 Reuniao de gemeos,Q894
+Q89.7 Malformacoes congen mult NCOP,Q897
+Q89.8 Outr malformacoes congen espec,Q898
+Q89.9 Malformacoes congen NE,Q899
+Q90.0 Trissomia 21 nao-disjuncao meiotica,Q900
+Q90.1 Trissomia 21 mosaicismo,Q901
+Q90.2 Trissomia 21 translocacao,Q902
+Q90.9 Sindr de Down NE,Q909
+Q91.0 Trissomia 18 nao-disjuncao meiotica,Q910
+Q91.1 Trissomia 18 mosaicismo cromossomico,Q911
+Q91.2 Trissomia 18 translocacao,Q912
+Q91.3 Sindr de Edwards NE,Q913
+Q91.4 Trissomia 13 nao-disjuncao meiotica,Q914
+Q91.5 Trissomia 13 mosaicismo cromossomico,Q915
+Q91.6 Trissomia 13 translocacao,Q916
+Q91.7 Sindr de Patau NE,Q917
+Q92.0 Trissomia cromoss inteiro n-disjuncao meiot,Q920
+Q92.1 Trissomia cromoss inteiro mosaicismo cromoss,Q921
+Q92.2 Trissomia parcial major,Q922
+Q92.3 Trissomia parcial minor,Q923
+Q92.4 Duplicacoes vistas somente na prometafase,Q924
+Q92.5 Duplicacao c/outr rearranjos complexos,Q925
+Q92.6 Cromossomos marcadores suplementares,Q926
+Q92.7 Triploidia e poliploidia,Q927
+Q92.8 Outr trissomias espec e trissom parc autoss,Q928
+Q92.9 Trissomia e trissomia parcial NE autossomos,Q929
+Q93.0 Monossomia cromoss inteiro n-disjuncao meiot,Q930
+Q93.1 Monossomia cromoss inteiro mosaicism cromoss,Q931
+Q93.2 Cromossomo substituido p/anel ou dicentrico,Q932
+Q93.3 Delecao do braco curto do cromossomo 4,Q933
+Q93.4 Delecao do braco curto do cromossomo 5,Q934
+Q93.5 Outr delecoes parciais de cromossomo,Q935
+Q93.6 Delecoes vistas somente na prometafase,Q936
+Q93.7 Delecoes c/outr rearranjos complexos,Q937
+Q93.8 Outr delecoes dos autossomos,Q938
+Q93.9 Delecoes NE dos autossomos,Q939
+Q95.0 Transloc ou insercao equilibr sujeito norm,Q950
+Q95.1 Inversao cromossomica em sujeito normal,Q951
+Q95.2 Rearranjo autossomico equilibr sujeito anorm,Q952
+Q95.3 Rearranjo sexual/autoss equilibr suj anorm,Q953
+Q95.4 Sujeito c/marcador de heterocromatina,Q954
+Q95.5 Sujeito c/sitio autossomico fragil,Q955
+Q95.8 Outr rearranjos e marcadores equilibrados,Q958
+Q95.9 Rearranjos e marcadores equilibrados NE,Q959
+Q96.0 Cariotipo 45 X,Q960
+Q96.1 Cariotipo 46 X isso,Q961
+Q96.2 Cariotipo 46 X cromoss sex anorm salvo isso,Q962
+Q96.3 Mosaicismo cromossomico 45 X/46 XX ou XY,Q963
+Q96.4 Mosaic crom 45 X/out linh cel crom sex anorm,Q964
+Q96.8 Outr variantes da sindr de Turner,Q968
+Q96.9 Sindr de Turner NE,Q969
+Q97.0 Cariotipo 47 XXX,Q970
+Q97.1 Mulher c/mais de tres cromossomos X,Q971
+Q97.2 Mosaicismo cromoss linh c/div num cromoss X,Q972
+Q97.3 Mulher c/cariotipo 46 XY,Q973
+Q97.8 Outr anom espec cromoss sex fenotipo fem,Q978
+Q97.9 Anomalias NE cromoss sexuais fenotipo femin,Q979
+Q98.0 Sindr de Klinefelter cariotipo 47 XXY,Q980
+Q98.1 Sindr Klinefelter hom c/mais dois cromoss X,Q981
+Q98.2 Sindr de Klinefelter homem c/cariotipo 46 XX,Q982
+Q98.3 Outr homem c/cariotipo 46 XX,Q983
+Q98.4 Sindr de Klinefelter NE,Q984
+Q98.5 Cariotipo 47 XYY,Q985
+Q98.6 Homem c/cromossomos sexuais estrut anormal,Q986
+Q98.7 Homem c/mosaicismo dos cromossomos sexuais,Q987
+Q98.8 Outr anom espec cromoss sex fenotipo masc,Q988
+Q98.9 Anomalias NE cromoss sexuais fenotipo masc,Q989
+Q99.0 Quimera 46 XX/46 XY,Q990
+Q99.1 Hermafrodite verdadeiro 46 XX,Q991
+Q99.2 Cromossomo X fragil,Q992
+Q99.8 Outr anomalias cromossomicas espec,Q998
+Q99.9 Anomalia cromossomica NE,Q999
+D18.0 Hemangioma de qq locaclização,D180
