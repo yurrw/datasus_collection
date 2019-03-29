@@ -1,0 +1,7 @@
+pegamos os campos necessarios e as tabelas auxiliares necessarias
+separamos as tabs auxiliares
+converteu a sinasc de dbc pra dbf
+convertemos as auxiliares de cnv pra csv
+converttudo -> importtudo
+
+borrob + dbfpy3 (setup install)
