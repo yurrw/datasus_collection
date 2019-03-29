@@ -57,4 +57,5 @@ X.X : Site utilizado para documentação oficial
 ------------------------------------   
 
  [https://sites.google.com/a/ntt.ufrj.br/dados-na-saude-coletiva/?pli=1](https://sites.google.com/a/ntt.ufrj.br/dados-na-saude-coletiva/?pli=1). 
-    > (such old, using webpages, fuck)
+    > 
+    
